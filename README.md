@@ -36,5 +36,4 @@ This presentation analyzes a highly sophisticated attack attributed to **UNC2891
 - Use tamper-evident seals, surveillance, and regular inspections
 - Treat physical security as a core component of cybersecurity strategy
 
-## 📂 Presentation
-📄 Full presentation available as a PDF documenting the attack chain, technical techniques, and key defensive lessons.
+
