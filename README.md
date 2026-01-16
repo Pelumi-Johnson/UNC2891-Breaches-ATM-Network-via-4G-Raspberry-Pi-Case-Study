@@ -1,12 +1,15 @@
 # 🏧 UNC2891 Breaches ATM Network via 4G Raspberry Pi – Case Study
 
-![Badge](https://img.shields.io/badge/Incident%20Analysis-Physical%20Intrusion%20%7C%20Advanced%20Malware-yellow?style=for-the-badge)
 
 [![UNC2891 ATM Breach – Preview](https://github.com/Pelumi-Johnson/UNC2891-Breaches-ATM-Network-via-4G-Raspberry-Pi-Case-Study/blob/main/Screenshot%202026-01-15%20214506.png)](./LuGeSTA.pdf)
 
 This presentation analyzes a highly sophisticated attack attributed to **UNC2891 (LightBasin)**, in which attackers physically implanted a 4G-enabled Raspberry Pi into an ATM network to bypass perimeter defenses and deploy the CAKETAP rootkit for attempted financial fraud.
 
 ## 🔍 Incident Overview
+
+![Badge](https://img.shields.io/badge/Incident%20Analysis-Physical%20Intrusion%20%7C%20Advanced%20Malware-yellow?style=for-the-badge)
+
+---
 - Threat actor UNC2891 targeted financial institutions using a blend of **physical access** and **custom malware**
 - Objective was to spoof Hardware Security Module (HSM) messages to authorize fraudulent ATM withdrawals
 - Attack was detected and disrupted before any funds were stolen
